@@ -4,11 +4,8 @@ cached-property==1.5.2
 gast==0.5.2
 google-pasta==0.2.0
 grpcio==1.41.1
-h5py==2.10.0
 importlib-metadata==4.8.2
 Markdown==3.3.4
-numpy==1.19.5
-opencv-python==4.5.4.58
 Pillow==8.4.0
 protobuf==3.19.1
 PyMySQL==1.0.2
